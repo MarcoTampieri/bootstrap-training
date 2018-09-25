@@ -1,0 +1,21 @@
+.container {
+    background-color: #d09fe7;
+    text-align: center;
+    border: solid black 2px;
+    border-radius: 7px;
+}
+
+#coucou {
+    border: solid black 2px;
+    border-radius: 5px;
+}
+
+#ça {
+    border: solid black 2px;
+    border-radius: 5px;
+}
+
+#va {
+    border: solid black 2px;
+    border-radius: 5px;
+}
